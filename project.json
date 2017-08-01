@@ -1,0 +1,9 @@
+{
+  "name": "apex-gradle",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::672278003389:role/apex-gradle_lambda_function",
+  "environment": {}
+}
+
